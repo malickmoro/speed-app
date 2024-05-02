@@ -1,0 +1,33 @@
+{
+  "originHash" : "a39acb5c4d8f1c4c364242a24c82a21ff3bac2a5b0e0b52e2013f4f6e6b760eb",
+  "pins" : [
+    {
+      "identity" : "codescanner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/CodeScanner.git",
+      "state" : {
+        "revision" : "944a6a1ca030dbd890e647a678e718fc2115d35c",
+        "version" : "2.4.1"
+      }
+    },
+    {
+      "identity" : "multidatepicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/divadretlaw/MultiDatePicker",
+      "state" : {
+        "revision" : "1c3b34437f9c22e16f1b7366e378e736c44b6a85",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "overlaydatepicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/divadretlaw/OverlayDatePicker.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "77b757d2d24980aee38ca40fa6fdacf4d56fc3f4"
+      }
+    }
+  ],
+  "version" : 3
+}
